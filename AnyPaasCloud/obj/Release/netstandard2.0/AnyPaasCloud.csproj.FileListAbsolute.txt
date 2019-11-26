@@ -1,0 +1,9 @@
+C:\Users\v.paesani\source\repos\AnyPaasCloud\AnyPaasCloud\bin\Release\netstandard2.0\AnyPaasCloud.deps.json
+C:\Users\v.paesani\source\repos\AnyPaasCloud\AnyPaasCloud\bin\Release\netstandard2.0\AnyPaasCloud.dll
+C:\Users\v.paesani\source\repos\AnyPaasCloud\AnyPaasCloud\bin\Release\netstandard2.0\AnyPaasCloud.pdb
+C:\Users\v.paesani\source\repos\AnyPaasCloud\AnyPaasCloud\obj\Release\netstandard2.0\AnyPaasCloud.csprojAssemblyReference.cache
+C:\Users\v.paesani\source\repos\AnyPaasCloud\AnyPaasCloud\obj\Release\netstandard2.0\AnyPaasCloud.csproj.CoreCompileInputs.cache
+C:\Users\v.paesani\source\repos\AnyPaasCloud\AnyPaasCloud\obj\Release\netstandard2.0\AnyPaasCloud.AssemblyInfoInputs.cache
+C:\Users\v.paesani\source\repos\AnyPaasCloud\AnyPaasCloud\obj\Release\netstandard2.0\AnyPaasCloud.AssemblyInfo.cs
+C:\Users\v.paesani\source\repos\AnyPaasCloud\AnyPaasCloud\obj\Release\netstandard2.0\AnyPaasCloud.dll
+C:\Users\v.paesani\source\repos\AnyPaasCloud\AnyPaasCloud\obj\Release\netstandard2.0\AnyPaasCloud.pdb
