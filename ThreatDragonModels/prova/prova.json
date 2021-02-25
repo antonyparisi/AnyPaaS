@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "prova",
+    "owner": "prova"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "prova",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "prova"
+  }
+}
